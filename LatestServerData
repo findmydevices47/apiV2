@@ -4,7 +4,9 @@
         "name": "",
         "releaseDate": "",
         "rating": "",
-        "duration": ""
+        "duration": "",
+        "contentCategory": "",
+        "contentIcon": ""
     }
   ]
 }

@@ -7,7 +7,7 @@
         "duration": "181 minutes",
         "contentCategory": "epic science fiction",
         "contentIcon": false,
-        "result": "ddfd1234567",
+        "result": "ddfd1234567", "click": 0,
         "generatedText": [
          "dadfd", "dfdff", "dfdfdfdfhdjfh", "djfdfdf"
         ]
@@ -19,7 +19,7 @@
         "duration": "181 minutes",
         "contentCategory": "epic science fiction",
         "contentIcon": false,
-        "result": "",
+        "result": "", "click": 0,
         "generatedText": [
          "dadfd", "dfdff"
         ]
@@ -31,7 +31,7 @@
         "duration": "181 minutes",
         "contentCategory": "epic science fiction",
         "contentIcon": false,
-        "result": "",
+        "result": "", "click": 0,
         "generatedText": [
          "dadfd", "dfdff"
         ]

@@ -6,7 +6,7 @@
         "rating": "9.4",
         "duration": "181 minutes",
         "contentCategory": "epic science fiction",
-        "contentIcon": false,
+        "contentIcon": true,
         "result": "ddfd1234567", 
         "showTime": "10000",
         "generatedText": [
@@ -19,7 +19,7 @@
         "rating": "9.4",
         "duration": "181 minutes",
         "contentCategory": "epic science fiction",
-        "contentIcon": false,
+        "contentIcon": true,
         "result": "", 
         "showTime": "0",
         "generatedText": [
@@ -32,7 +32,7 @@
         "rating": "9.4",
         "duration": "181 minutes",
         "contentCategory": "epic science fiction",
-        "contentIcon": false,
+        "contentIcon": true,
         "result": "",  
         "showTime": "0",
         "generatedText": [

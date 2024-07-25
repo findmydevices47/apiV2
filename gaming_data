@@ -1,16 +1,17 @@
 {
 "data": [
 {
-        "name": "kalki 2894",
-        "releaseDate": "27 June 2024",
-        "rating": "9.4",
+        "name": "GTA 5",
+        "releaseDate": "17 September 2013",
+        "rating": "9.7",        
         "duration": "181 minutes",
-        "contentCategory": "epic science fiction",
+        "contentCategory": "Action-adventure",
         "contentIcon": true,
-        "result": "ddfd1234567", 
-        "showTime": "10000",
+        "result": "", 
+        "showTime": "10000000",
         "generatedText": [
-         "dadfd", "dfdff", "dfdfdfdfhdjfh", "djfdfdf"
+         "game is designed by Leslie Benzies and Imran Sarwar", "Adam Fowler is programer of this game", "published by Rockstar Games", "developed by Rockstar North",
+"Aaron Garbut is artist", "Dan Houser is writer", "Rupert Humphries is writer", "Michael Unsworth os writer" 
         ]
     },
     { 

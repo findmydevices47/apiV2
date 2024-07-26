@@ -33,16 +33,19 @@
 ]
     },
 { 
-        "name": "Red Dead Redemption 2",
-        "releaseDate": "November 5, 2019",
+        "name": "Elden Ring",
+        "releaseDate": "February 25, 2022",
         "rating": "9.4",
         "duration": "181 minutes",
-        "contentCategory": "Action-adventure",
+        "contentCategory": "Action role-playing",
         "contentIcon": true,
         "result": "", 
-        "showTime": "10000000",
+        "showTime": "1000000000",
         "generatedText": [
-
+"Hidetaka Miyazaki is Director of this game", "George R. R. Martin (Worldbuilding and Lore) is Co-Creator", "Executive Producer is Yasuhiro Kitao",
+"Takeshi Miyazoe is Producer", "Hidetaka Miyazaki and Yui Tanimura Lead Game Designers", "Hiroshi Yoshida is Art Director", "Kei Hirono and Yuichi Yamaguchi
+is Lead Programmers of this game", "Yasutaka Ogura and Daisuke Satake Lead Artists of this game", "Lead Animators is Masanori Takeuchi and Takeshi Suzuki",
+"Sound Director is Tsukasa Saitoh"
         ]
     },
 { 

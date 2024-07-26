@@ -30,12 +30,33 @@
 "Writers of this game Dan Houser,Michael Unsworth and Rupert Humphries", "Rockstar North producer is Leslie Benzies", "Rockstar San Diego Alan Blaine (Technical Director)",
 "Rockstar Leeds Gordon Hall (Studio Head)", "Rockstar New England Ian McQue (Lead Artist)", "Rockstar London Adam Fowler (Technical Director)",
 "Art Directors Aaron Garbut and Alastair MacGregor", "Lead Programmers Phil Hooker and David Hynd", "Technical Directors Adam Fowler", "Audio Ivan Pavlovich (Music Supervisor)"
-
-
-
-
-        
 ]
+    },
+{ 
+        "name": "Red Dead Redemption 2",
+        "releaseDate": "November 5, 2019",
+        "rating": "9.4",
+        "duration": "181 minutes",
+        "contentCategory": "Action-adventure",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "10000000",
+        "generatedText": [
+
+        ]
+    },
+{ 
+        "name": "Red Dead Redemption 2",
+        "releaseDate": "November 5, 2019",
+        "rating": "9.4",
+        "duration": "181 minutes",
+        "contentCategory": "Action-adventure",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "10000000",
+        "generatedText": [
+
+        ]
     }
   ]
 }

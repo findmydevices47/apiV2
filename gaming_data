@@ -12,7 +12,7 @@
         "generatedText": [
          "game is designed by Leslie Benzies and Imran Sarwar", "Adam Fowler is programer of this game", "published by Rockstar Games", "developed by Rockstar North",
 "Aaron Garbut is artist", "Dan Houser is writer", "Rupert Humphries is writer", "Michael Unsworth os writer", "Jonathan Grier is Lead Programmer",
-"Voice Cast by Michael De Santa, Franklin Clinton and Trevor Philips", Vice President of Marketing John Ricciardi", "Vice President of PR and Communications Rodney Walker"
+"Voice Cast by Michael De Santa" , "Franklin Clinton and Trevor Philips", Vice President of Marketing John Ricciardi", "Vice President of PR and Communications Rodney Walker"
         ]
     },
     { 
@@ -26,19 +26,6 @@
         "showTime": "10000000",
         "generatedText": [
          "this game project by Rockstar Games", "Executive Producers is Sam Houser and Dan Houser"
-        ]
-    },
-     { 
-        "name": "Red Dead Redemption 2",
-        "releaseDate": "November 5, 2019",
-        "rating": "9.4",
-        "duration": "181 minutes",
-        "contentCategory": "Action-adventure",
-        "contentIcon": true,
-        "result": "", 
-        "showTime": "10000000",
-        "generatedText": [
-         "dadfd", "dfdff"
         ]
     }
   ]

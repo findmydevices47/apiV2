@@ -3,5 +3,8 @@
         "isShowMainButtonAds": true,
         "movieScreenTitle1": "",
         "movieScreenTitle2": "",
-        "movieScreenTitle3": ""
+        "movieScreenTitle3": "",
+        "gameScreenTitle1": "",
+        "gameScreenTitle2": "",
+        "gameScreenTitle3": ""
 }

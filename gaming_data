@@ -9,11 +9,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "10000000",
-        "generatedText": [
-         "game is designed by Leslie Benzies and Imran Sarwar", "Adam Fowler is programer of this game", "published by Rockstar Games", "developed by Rockstar North",
-"Aaron Garbut is artist", "Dan Houser is writer", "Rupert Humphries is writer", "Michael Unsworth os writer", "Jonathan Grier is Lead Programmer",
-"Voice Cast by Michael De Santa" , "Franklin Clinton and Trevor Philips", "Vice President of Marketing John Ricciardi", "Vice President of PR and Communications Rodney Walker"
-        ]
+        "generatedText": []
     },
     { 
         "name": "Red Dead Redemption 2",
@@ -24,13 +20,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "10000000",
-        "generatedText": [
-         "this game project by Rockstar Games", "Executive Producers is Sam Houser and Dan Houser", "Aaron Garbut is Art Director", "Rob Nelson is Co-Director of Art",
-"Imran Sarwar Director of Design", "Rod Edge Director of Performance Capture", "Josh Bass Director of Art", 
-"Writers of this game Dan Houser,Michael Unsworth and Rupert Humphries", "Rockstar North producer is Leslie Benzies", "Rockstar San Diego Alan Blaine (Technical Director)",
-"Rockstar Leeds Gordon Hall (Studio Head)", "Rockstar New England Ian McQue (Lead Artist)", "Rockstar London Adam Fowler (Technical Director)",
-"Art Directors Aaron Garbut and Alastair MacGregor", "Lead Programmers Phil Hooker and David Hynd", "Technical Directors Adam Fowler", "Audio Ivan Pavlovich (Music Supervisor)"
-]
+        "generatedText": []
     },
 { 
         "name": "Elden Ring",
@@ -41,12 +31,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": [
-"Hidetaka Miyazaki is Director of this game", "George R. R. Martin (Worldbuilding and Lore) is Co-Creator", "Executive Producer is Yasuhiro Kitao",
-"Takeshi Miyazoe is Producer", "Hidetaka Miyazaki and Yui Tanimura Lead Game Designers", "Hiroshi Yoshida is Art Director", "Kei Hirono and Yuichi Yamaguchi
-is Lead Programmers of this game", "Yasutaka Ogura and Daisuke Satake Lead Artists of this game", "Lead Animators is Masanori Takeuchi and Takeshi Suzuki",
-"Sound Director is Tsukasa Saitoh"
-        ]
+        "generatedText": []
     },
 { 
         "name": "Red Dead Redemption 2",
@@ -57,9 +42,7 @@ is Lead Programmers of this game", "Yasutaka Ogura and Daisuke Satake Lead Artis
         "contentIcon": true,
         "result": "", 
         "showTime": "10000000",
-        "generatedText": [
-
-        ]
+        "generatedText": []
     }
   ]
 }

@@ -16,14 +16,40 @@
         ]
     },
     { 
-        "name": "kalki 2898",
-        "releaseDate": "27 June 2024",
+        "name": "Red Dead Redemption 2",
+        "releaseDate": "November 5, 2019",
         "rating": "9.4",
         "duration": "181 minutes",
-        "contentCategory": "epic science fiction",
+        "contentCategory": "Action-adventure",
         "contentIcon": true,
         "result": "", 
-        "showTime": "0",
+        "showTime": "10000000",
+        "generatedText": [
+         "this game project by Rockstar Games", "Executive Producers is Sam Houser and Dan Houser"
+        ]
+    },
+     { 
+        "name": "Red Dead Redemption 2",
+        "releaseDate": "November 5, 2019",
+        "rating": "9.4",
+        "duration": "181 minutes",
+        "contentCategory": "Action-adventure",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "10000000",
+        "generatedText": [
+         "dadfd", "dfdff"
+        ]
+    },
+{ 
+        "name": "Red Dead Redemption 2",
+        "releaseDate": "November 5, 2019",
+        "rating": "9.4",
+        "duration": "181 minutes",
+        "contentCategory": "Action-adventure",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "10000000",
         "generatedText": [
          "dadfd", "dfdff"
         ]

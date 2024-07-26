@@ -25,8 +25,17 @@
         "result": "", 
         "showTime": "10000000",
         "generatedText": [
-         "this game project by Rockstar Games", "Executive Producers is Sam Houser and Dan Houser"
-        ]
+         "this game project by Rockstar Games", "Executive Producers is Sam Houser and Dan Houser", "Aaron Garbut is Art Director", "Rob Nelson is Co-Director of Art",
+"Imran Sarwar Director of Design", "Rod Edge Director of Performance Capture", "Josh Bass Director of Art", 
+"Writers of this game Dan Houser,Michael Unsworth and Rupert Humphries", "Rockstar North producer is Leslie Benzies", "Rockstar San Diego Alan Blaine (Technical Director)",
+"Rockstar Leeds Gordon Hall (Studio Head)", "Rockstar New England Ian McQue (Lead Artist)", "Rockstar London Adam Fowler (Technical Director)",
+"Art Directors Aaron Garbut and Alastair MacGregor", "Lead Programmers Phil Hooker and David Hynd", "Technical Directors Adam Fowler", "Audio Ivan Pavlovich (Music Supervisor)"
+
+
+
+
+        
+]
     }
   ]
 }

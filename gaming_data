@@ -9,7 +9,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "10000000",
-        "generatedText": []
+        "generatedText": ""
     },
     { 
         "name": "Red Dead Redemption 2",
@@ -20,7 +20,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "10000000",
-        "generatedText": []
+        "generatedText": ""
     },
 { 
         "name": "Elden Ring",
@@ -31,7 +31,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": []
+        "generatedText": ""
     },
 { 
         "name": "Red Dead Redemption 2",
@@ -42,7 +42,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "10000000",
-        "generatedText": []
+        "generatedText": ""
     }
   ]
 }

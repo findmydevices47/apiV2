@@ -1,28 +1,72 @@
 {
 "data": [
 {
-        "name": "kalki1234",
-        "releaseDate": "27 June 2024",
-        "rating": "9.4",
+        "name": "Godzilla x Kong",
+        "releaseDate": "March 15, 2024",
+        "rating": "7.9",
         "duration": "181 minutes",
-        "contentCategory": "epic science fiction",
+        "contentCategory": "Action, Adventure, Fantasy",
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "10000",
         "generatedText": ""
     },
     { 
-        "name": "kalki 2898",
-        "releaseDate": "27 June 2024",
-        "rating": "9.4",
+        "name": "The Marvels",
+        "releaseDate": "November 7, 2023",
+        "rating": "7.8",
         "duration": "181 minutes",
-        "contentCategory": "epic science fiction",
+        "contentCategory": "Action, Adventure, Sci-Fi",
         "contentIcon": false,
         "result": "", 
         "showTime": "0",
         "generatedText": ""
     },
     {
+        "name": "Mission: Impossible",
+        "releaseDate": "July 12, 2024",
+        "rating": "8.5",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Adventure, Thriller",
+        "contentIcon": false,
+        "result": "",  
+        "showTime": "0",
+        "generatedText": ""
+    },
+{
+        "name": "kalki 2898",
+        "releaseDate": "27 June 2024",
+        "rating": "9.4",
+        "duration": "181 minutes",
+        "contentCategory": "epic science fiction",
+        "contentIcon": false,
+        "result": "",  
+        "showTime": "0",
+        "generatedText": ""
+    },
+{
+        "name": "kalki 2898",
+        "releaseDate": "27 June 2024",
+        "rating": "9.4",
+        "duration": "181 minutes",
+        "contentCategory": "epic science fiction",
+        "contentIcon": false,
+        "result": "",  
+        "showTime": "0",
+        "generatedText": ""
+    },
+{
+        "name": "kalki 2898",
+        "releaseDate": "27 June 2024",
+        "rating": "9.4",
+        "duration": "181 minutes",
+        "contentCategory": "epic science fiction",
+        "contentIcon": false,
+        "result": "",  
+        "showTime": "0",
+        "generatedText": ""
+    },
+{
         "name": "kalki 2898",
         "releaseDate": "27 June 2024",
         "rating": "9.4",

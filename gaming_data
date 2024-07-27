@@ -1,6 +1,94 @@
 {
 "data": [
 {
+        "name": "Assassin's Creed Mirage",
+        "releaseDate": "October 5, 2023",
+        "rating": "9.1",        
+        "duration": "181 minutes",
+        "contentCategory": "Action-Adventure",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+    {
+        "name": "Street Fighter 6",
+        "releaseDate": "June 2, 2023",
+        "rating": "9.0",        
+        "duration": "181 minutes",
+        "contentCategory": "Fighting",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{
+        "name": "Hogwarts Legacy",
+        "releaseDate": "February 10, 2023",
+        "rating": "9.0",        
+        "duration": "181 minutes",
+        "contentCategory": "Action RPG",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{
+        "name": "Forspoken",
+        "releaseDate": "January 24, 2023",
+        "rating": "9.0",        
+        "duration": "181 minutes",
+        "contentCategory": "Action RPG",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{
+        "name": "Alan Wake II",
+        "releaseDate": "October 27, 2023",
+        "rating": "9.0",        
+        "duration": "181 minutes",
+        "contentCategory": "Survival Horror",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{
+        "name": "Starfield",
+        "releaseDate": "September 6, 2023",
+        "rating": "9.0",        
+        "duration": "181 minutes",
+        "contentCategory": "Action RPG, Sci-Fi",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{
+        "name": "F1 23",
+        "releaseDate": "June 16, 2023",
+        "rating": "9.0",        
+        "duration": "181 minutes",
+        "contentCategory": "Racing",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{
+        "name": "Diablo IV",
+        "releaseDate": "June 6, 2023",
+        "rating": "9.0",        
+        "duration": "181 minutes",
+        "contentCategory": "Action RPG",
+        "contentIcon": true,
+        "result": "",
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{
         "name": "GTA 5",
         "releaseDate": "17 September 2013",
         "rating": "9.7",        
@@ -34,14 +122,58 @@
         "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/elden_ring"
     },
 { 
-        "name": "Red Dead Redemption 2",
-        "releaseDate": "November 5, 2019",
-        "rating": "9.4",
+        "name": "Cyberpunk 2077",
+        "releaseDate": "10 December 2020",
+        "rating": "9.7",
         "duration": "181 minutes",
-        "contentCategory": "Action-adventure",
+        "contentCategory": "Action role-playing",
         "contentIcon": true,
         "result": "", 
-        "showTime": "10000000",
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{ 
+        "name": "The Witcher 3: Wild Hunt",
+        "releaseDate": "May 19, 2015",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "Action RPG",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{ 
+        "name": "Dark Souls III",
+        "releaseDate": "April 12, 2016",
+        "rating": "9.2",
+        "duration": "181 minutes",
+        "contentCategory": "Action RPG",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{ 
+        "name": "DOOM (2016)",
+        "releaseDate": "May 13, 2016",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "First-Person Shooter",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": ""
+    },
+{ 
+        "name": "Horizon Zero Dawn",
+        "releaseDate": "August 7, 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "Action RPG",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
         "generatedText": ""
     }
   ]

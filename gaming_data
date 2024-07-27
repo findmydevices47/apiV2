@@ -42,7 +42,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/Forspoken"
     },
 {
         "name": "Alan Wake II",
@@ -53,7 +53,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/alan_wake_II"
     },
 {
         "name": "Starfield",
@@ -64,7 +64,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/starfield"
     },
 {
         "name": "F1 23",
@@ -75,7 +75,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/f1_23"
     },
 {
         "name": "Diablo IV",
@@ -86,7 +86,7 @@
         "contentIcon": true,
         "result": "",
         "showTime": "1000000000",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/diablo_IV"
     },
 {
         "name": "GTA 5",
@@ -130,7 +130,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/cyberpunk_2077"
     },
 { 
         "name": "The Witcher 3: Wild Hunt",
@@ -141,7 +141,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/the_witcher_3_wild_hunt"
     },
 { 
         "name": "Dark Souls III",
@@ -152,7 +152,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/dark_souls_III"
     },
 { 
         "name": "DOOM (2016)",
@@ -163,7 +163,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/doom_2016"
     },
 { 
         "name": "Horizon Zero Dawn",
@@ -174,7 +174,7 @@
         "contentIcon": true,
         "result": "", 
         "showTime": "1000000000",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/horizon_zero_dawn"
     }
   ]
 }

@@ -1,5 +1,16 @@
 {
 "data": [
+{ 
+        "name": "The Marvels",
+        "releaseDate": "November 7, 2023",
+        "rating": "7.8",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Adventure, Sci-Fi",
+        "contentIcon": false,
+        "result": "", 
+        "showTime": "0",
+        "generatedText": ""
+    },
 {
         "name": "Godzilla x Kong",
         "releaseDate": "March 15, 2024",
@@ -9,17 +20,6 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "10000",
-        "generatedText": ""
-    },
-    { 
-        "name": "The Marvels",
-        "releaseDate": "November 7, 2023",
-        "rating": "7.8",
-        "duration": "181 minutes",
-        "contentCategory": "Action, Adventure, Sci-Fi",
-        "contentIcon": false,
-        "result": "", 
-        "showTime": "0",
         "generatedText": ""
     },
     {

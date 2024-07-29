@@ -1,5 +1,16 @@
 {
 "data": [
+{
+        "name": "Justice League",
+        "releaseDate": "January 9, 2024",
+        "rating": "8.2",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Adventure",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/Justice_league"
+    },
 { 
         "name": "The Marvels",
         "releaseDate": "November 7, 2023",

@@ -20,7 +20,7 @@
         "contentIcon": false,
         "result": "", 
         "showTime": "0",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/the_marvels"
     },
 {
         "name": "Godzilla x Kong",
@@ -31,7 +31,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "10000",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/"
     },
     {
         "name": "Mission: Impossible",
@@ -42,7 +42,18 @@
         "contentIcon": false,
         "result": "",  
         "showTime": "0",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/"
+    },
+{
+        "name": "Guardians_of_the_Galaxy_Vol._3",
+        "releaseDate": "27 June 2024",
+        "rating": "9.4",
+        "duration": "181 minutes",
+        "contentCategory": "epic science fiction",
+        "contentIcon": false,
+        "result": "",  
+        "showTime": "0",
+        "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/"
     },
 {
         "name": "kalki 2898",
@@ -53,40 +64,7 @@
         "contentIcon": false,
         "result": "",  
         "showTime": "0",
-        "generatedText": ""
-    },
-{
-        "name": "kalki 2898",
-        "releaseDate": "27 June 2024",
-        "rating": "9.4",
-        "duration": "181 minutes",
-        "contentCategory": "epic science fiction",
-        "contentIcon": false,
-        "result": "",  
-        "showTime": "0",
-        "generatedText": ""
-    },
-{
-        "name": "kalki 2898",
-        "releaseDate": "27 June 2024",
-        "rating": "9.4",
-        "duration": "181 minutes",
-        "contentCategory": "epic science fiction",
-        "contentIcon": false,
-        "result": "",  
-        "showTime": "0",
-        "generatedText": ""
-    },
-{
-        "name": "kalki 2898",
-        "releaseDate": "27 June 2024",
-        "rating": "9.4",
-        "duration": "181 minutes",
-        "contentCategory": "epic science fiction",
-        "contentIcon": false,
-        "result": "",  
-        "showTime": "0",
-        "generatedText": ""
+        "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/"
     }
   ]
 }

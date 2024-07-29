@@ -19,7 +19,7 @@
         "contentCategory": "Action, Adventure, Sci-Fi",
         "contentIcon": false,
         "result": "", 
-        "showTime": "0",
+        "showTime": "1000000000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/the_marvels"
     },
 {
@@ -30,7 +30,7 @@
         "contentCategory": "Action, Adventure, Fantasy",
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
-        "showTime": "10000",
+        "showTime": "1000000000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/"
     },
     {
@@ -41,7 +41,7 @@
         "contentCategory": "Action, Adventure, Thriller",
         "contentIcon": false,
         "result": "",  
-        "showTime": "0",
+        "showTime": "1000000000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/"
     },
 {
@@ -52,7 +52,7 @@
         "contentCategory": "epic science fiction",
         "contentIcon": false,
         "result": "",  
-        "showTime": "0",
+        "showTime": "1000000000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/"
     },
 {
@@ -63,7 +63,7 @@
         "contentCategory": "epic science fiction",
         "contentIcon": false,
         "result": "",  
-        "showTime": "0",
+        "showTime": "1000000000",
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/"
     }
   ]

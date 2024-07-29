@@ -1,13 +1,15 @@
 {
 "data": [
-    {
+{
         "name": "Barbie",
         "releaseDate": "July 21, 2023",
         "rating": "7.3",
         "duration": "181 minutes",
         "contentCategory": "Adventure, Comedy, Fantasy",
         "contentIcon": false,
-"result": ""
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
     },
 {
         "name": "The Batman",
@@ -16,7 +18,9 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Crime, Drama",
         "contentIcon": false,
-"result": ""
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
     },
 {
         "name": "Top Gun: Maverick",
@@ -25,7 +29,9 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Drama",
         "contentIcon": false,
-"result": ""
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
     }, 
 {
         "name": "The Hunger Games",
@@ -34,7 +40,9 @@
         "duration": "181 minutes",
         "contentCategory": "Adventure, Drama, Sci-Fi",
         "contentIcon": false,
-"result": ""
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
     },
 {
         "name": "Tenet",
@@ -43,7 +51,9 @@
         "duration": "181 minutes",
         "contentCategory": "Action, Sci-Fi, Thriller",
         "contentIcon": false,
-"result": ""
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
     }
 ]
 )

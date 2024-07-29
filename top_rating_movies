@@ -1,13 +1,81 @@
 {
 "data": [
     {
-        "name": "top movie",
-        "releaseDate": "27 June 2024",
-        "rating": "9.4",
+        "name": "Justice League",
+        "releaseDate": "January 9, 2024",
+        "rating": "8.2",
         "duration": "181 minutes",
-        "contentCategory": "epic science fiction",
+        "contentCategory": "Action, Adventure",
         "contentIcon": false,
-"result": ""
-    } 
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
+    },
+    {
+        "name": "Justice League",
+        "releaseDate": "January 9, 2024",
+        "rating": "8.2",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Adventure",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
+    },
+{
+        "name": "Justice League",
+        "releaseDate": "January 9, 2024",
+        "rating": "8.2",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Adventure",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
+    },
+{
+        "name": "Justice League",
+        "releaseDate": "January 9, 2024",
+        "rating": "8.2",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Adventure",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
+    },
+{
+        "name": "Justice League",
+        "releaseDate": "January 9, 2024",
+        "rating": "8.2",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Adventure",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
+    },
+{
+        "name": "Justice League",
+        "releaseDate": "January 9, 2024",
+        "rating": "8.2",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Adventure",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
+    },
+{
+        "name": "Justice League",
+        "releaseDate": "January 9, 2024",
+        "rating": "8.2",
+        "duration": "181 minutes",
+        "contentCategory": "Action, Adventure",
+        "contentIcon": false,
+        "result": "ddfd1234567dffffffffffffffffffffffffff", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/"
+    }
 ]
 )

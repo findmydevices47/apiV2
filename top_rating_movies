@@ -9,7 +9,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/Coco"
     },
     {
         "name": "Dunkirk",
@@ -20,7 +20,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/dunkirk"
     },
 {
         "name": "Joker",
@@ -31,7 +31,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/joker"
     },
 {
         "name": "Tenet",
@@ -45,7 +45,7 @@
         "generatedText": "https://findmydevices47.github.io/apiv1/"
     },
 {
-        "name": "Justice League",
+        "name": "Justice League 2021",
         "releaseDate": "October 22, 2021",
         "rating": "8.0",
         "duration": "181 minutes",
@@ -53,10 +53,10 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/Justice_league_2021"
     },
 {
-        "name": "Dune",
+        "name": "Dune: Part Two",
         "releaseDate": "January 9, 2024",
         "rating": "8.2",
         "duration": "181 minutes",
@@ -64,7 +64,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/dune_part_two"
     },
 {
         "name": "Killers of the Flower Moon",
@@ -75,7 +75,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/Killers_of_the_Flower_Moon_"
     }
 ]
 }

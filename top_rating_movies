@@ -9,7 +9,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/coco"
+        "generatedText": "https://findmydevices47.github.io/apiv1/top_rating_movies/coco"
     },
     {
         "name": "Dunkirk",
@@ -20,7 +20,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/dunkirk"
+        "generatedText": "https://findmydevices47.github.io/apiv1//top_rating_movies/dunkirk"
     },
 {
         "name": "Joker",
@@ -31,7 +31,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/joker"
+        "generatedText": "https://findmydevices47.github.io/apiv1/top_rating_movies/joker"
     },
 {
         "name": "Tenet",
@@ -42,7 +42,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/top_rating_movies/tenet"
     },
 {
         "name": "Justice League 2021",
@@ -53,7 +53,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/Justice_league_2021"
+        "generatedText": "https://findmydevices47.github.io/apiv1/top_rating_movies/Justice_league_2021"
     },
 {
         "name": "Dune: Part Two",
@@ -64,7 +64,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/dune_part_two"
+        "generatedText": "https://findmydevices47.github.io/apiv1/top_rating_movies/dune_part_two"
     },
 {
         "name": "Killers of the Flower Moon",
@@ -75,7 +75,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/Killers_of_the_Flower_Moon_"
+        "generatedText": "https://findmydevices47.github.io/apiv1/top_rating_movies/Killers_of_the_Flower_Moon"
     }
 ]
 }

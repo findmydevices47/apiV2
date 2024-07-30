@@ -1,6 +1,6 @@
 {
-        "isShowUnityAds": true,
-        "isShowMainButtonAds": true,
+        "isShowUnityAds": false,
+        "isShowMainButtonAds": false,
         "movieScreenTitle1": "",
         "movieScreenTitle2": "",
         "movieScreenTitle3": "",

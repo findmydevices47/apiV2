@@ -9,7 +9,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/best_movie/barbie"
     },
 {
         "name": "The Batman",
@@ -20,7 +20,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/best_movie/batman_2022"
     },
 {
         "name": "Top Gun: Maverick",
@@ -31,10 +31,10 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/best_movie/Top_Gun:_Maverick"
     }, 
 {
-        "name": "The Hunger Games",
+        "name": "The Hunger Games 2023",
         "releaseDate": "November 17, 2024",
         "rating": "8.4",
         "duration": "181 minutes",
@@ -42,7 +42,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/best_movie/the_hunger_games_2023"
     },
 {
         "name": "Tenet",
@@ -53,7 +53,7 @@
         "contentIcon": false,
         "result": "ddfd1234567dffffffffffffffffffffffffff", 
         "showTime": "1000000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/"
+        "generatedText": "https://findmydevices47.github.io/apiv1/best_movie/tenet"
     }
 ]
 }

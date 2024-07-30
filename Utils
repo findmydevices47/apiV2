@@ -1,7 +1,7 @@
 {
-        "isShowUnityAds": true,
+        "isShowUnityAds": false,
         "isShowMainButtonAds": false,
-        "isShowAdsAtlasScreen": true,
+        "isShowAdsAtlasScreen": false,
         "movieScreenTitle1": "",
         "movieScreenTitle2": "",
         "movieScreenTitle3": "",

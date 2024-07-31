@@ -99,17 +99,6 @@
         "showTime": "10000000",
         "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/gta_5"
     },
-    { 
-        "name": "Red Dead Redemption 2",
-        "releaseDate": "November 5, 2019",
-        "rating": "9.4",
-        "duration": "181 minutes",
-        "contentCategory": "Action-adventure",
-        "contentIcon": true,
-        "result": "", 
-        "showTime": "10000000",
-        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/red_dead_redemption_2"
-    },
 { 
         "name": "Elden Ring",
         "releaseDate": "February 25, 2022",

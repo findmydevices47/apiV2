@@ -144,6 +144,17 @@
         "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/dark_souls_III"
     },
 { 
+        "name": "Halo Infinite",
+        "releaseDate": "December 8, 2021",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "First-person shooter",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "1000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/halo_infinite"
+    },
+{ 
         "name": "DOOM (2016)",
         "releaseDate": "May 13, 2016",
         "rating": "9.7",

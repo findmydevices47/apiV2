@@ -78,6 +78,17 @@
         "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/pushpa_2"
     },
 {
+        "name": "Stree 2",
+        "releaseDate": "15 August 2024",
+        "rating": "8.3",
+        "duration": "128 minutes",
+        "contentCategory": "comedy horror",
+        "contentIcon": false,
+        "result": "", 
+        "showTime": "100000000000000000000000",
+        "generatedText": "https://findmydevices47.github.io/apiv1/latest_movie/stree_2"
+    },
+{
         "name": "Guardians_of_the_Galaxy_Vol._3",
         "releaseDate": "27 June 2024",
         "rating": "9.4",

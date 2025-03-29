@@ -1,16 +1,15 @@
 {
-        "admobAdLimit": 2,
-        "unityAdLimit": 0,
-        "isResetBalance": false,
-        "resetBalance": "0.2",
+        "isShowUnityAds": false,
+        "isShowMainButtonAds": false,
+        "isShowAdsAtlasScreen": false,
         "movieScreenTitle1": "",
         "movieScreenTitle2": "",
         "movieScreenTitle3": "",
-        "isShowTermsDialog": true,
-        "isShowExtraDialog": false,
-        "reduceTime": "166400000",
-        "idThis": "5704391",
-        "percentageReduce": "12",
-        "isTest": false,
-        "isWithdrawBoxShown": true
+        "gameScreenTitle1": "",
+        "gameScreenTitle2": "",
+        "gameScreenTitle3": "",
+        "idThis": "",
+        "isTest": true,
+        "admobAdLimit": 2,
+        "unityAdLimit": 2
 }

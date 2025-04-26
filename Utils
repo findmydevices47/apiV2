@@ -7,5 +7,7 @@
         "movieScreenTitle3": "",
         "gameScreenTitle1": "",
         "gameScreenTitle2": "",
-        "gameScreenTitle3": ""
+        "gameScreenTitle3": "",
+"admobAdLimit": 2,
+"unityAdLimit": 2
 }
